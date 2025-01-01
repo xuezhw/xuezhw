@@ -12,10 +12,10 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Golang | Java | Rust 
-- 🌐 &nbsp; Flutter | HTML | CSS | JavaScript | Bootstrap 
+- 🌐 &nbsp; Flutter | HTML | CSS | JavaScript | Vue 
 - 🛢 &nbsp; MySQL | Oracle | Redis
-- 🔧 &nbsp; Idea | PyCharm | Visual Studio code | Eclipse | Git
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
+- 🔧 &nbsp; Idea | Visual Studio code | Git
+- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop
 
 <!--
 
