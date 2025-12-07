@@ -1,6 +1,6 @@
 <h2> Hi there! I'm xuezhw <img src="https://raw.githubusercontent.com/xuezhw/xuezhw/main/Hi.gif" width="25"></h2>
 
-<img align="right" alt="GIF" src="https://github.com/xuezhw/xuezhw/blob/main/1.gif?raw=true" width="400"/>
+<img align="right" alt="GIF" src="https://github.com/xuezhw/xuezhw/blob/main/xuezhw.gif?raw=true" width="400"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -30,15 +30,15 @@
 
 <hr>
 
+<!--
 [![Xuezhw's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xuezhw&show_icons=true)](https://github.com/xuezhw)
 
 <br/>
 
-<!--
 <img src="https://github.com/xuezhw/xuezhw/blob/main/5.gif" width="350" align='right'>
--->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xuezhw&show_icons=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xuezhw&show_icons=true)
+-->
 <br>
 <hr>
 <h3>💻 Skills</h3>
