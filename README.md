@@ -34,9 +34,9 @@
 
 <br/>
 
-
+<!--
 <img src="https://github.com/xuezhw/xuezhw/blob/main/5.gif" width="350" align='right'>
-
+-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xuezhw&show_icons=true)
 
 <br>
